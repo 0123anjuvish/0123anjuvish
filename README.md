@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anju Vishwakarma,
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full stack Devellopment to develop new skills and ideas. 
+- 🌱 I’m currently learning Full stack Development to develop new skills and ideas. 
 - 💞️ I’m looking to collaborate on Frontend Projects. 
 - 📫 How to reach me 0123anjuvish@gmail.com
 
